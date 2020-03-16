@@ -16,6 +16,8 @@ const (
 	eAry
 )
 
+// Hello from Floobits editor
+
 var (
 	// SupportNegativeIndices decides whether to support non-standard practice of
 	// allowing negative indices to mean indices starting at the end of an array.
